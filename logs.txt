@@ -1,0 +1,135 @@
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-details/src/common/ui/footer-controls/index.tsx
+06-Feb-2024 22:00:16	  74:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-details/src/common/ui/section-header/index.tsx
+06-Feb-2024 22:00:16	  40:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-details/src/ui/choose-billing-details/existing-billing-details/ship-to-selector/index.tsx
+06-Feb-2024 22:00:16	  114:8   error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  155:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  170:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  185:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-details/src/ui/choose-billing-details/existing-billing-details/ship-to-selector/ship-to-create-drawer/index.tsx
+06-Feb-2024 22:00:16	  106:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-details/src/ui/choose-billing-details/existing-billing-details/ship-to-selector/ship-to-edit-drawer/index.tsx
+06-Feb-2024 22:00:16	  114:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-details/src/ui/choose-billing-details/existing-billing-details/ship-to-selector/ship-to-list-item/index.tsx
+06-Feb-2024 22:00:16	  37:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/billing-impact/src/ui/billing-impact-items-summary/item-details/index.tsx
+06-Feb-2024 22:00:16	  71:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  78:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  85:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/deferred-payment-method-panel/src/ui/index.tsx
+06-Feb-2024 22:00:16	  34:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/error-components/src/ui/error-sections/index.tsx
+06-Feb-2024 22:00:16	  49:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/page-checkout-components/src/common/ui/flow-controls-section/amount-with-tax/index.tsx
+06-Feb-2024 22:00:16	  29:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/page-checkout-components/src/common/ui/flow-controls-section/index.tsx
+06-Feb-2024 22:00:16	  49:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  61:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/page/src/ui/page/index.tsx
+06-Feb-2024 22:00:16	  27:8   error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  30:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/error-messages/index.tsx
+06-Feb-2024 22:00:16	  18:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/index.tsx
+06-Feb-2024 22:00:16	  199:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  215:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/add-new-payment-drawer/credit-card/index.tsx
+06-Feb-2024 22:00:16	  73:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/change-payment-method-modal/index.tsx
+06-Feb-2024 22:00:16	  36:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/deferred-info-container/index.tsx
+06-Feb-2024 22:00:16	  45:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/edit-payment-drawer-content/credit-card/index.tsx
+06-Feb-2024 22:00:16	  102:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/index.tsx
+06-Feb-2024 22:00:16	  112:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/payment-methods-row/index.tsx
+06-Feb-2024 22:00:16	  97:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/choose-payment-method/payment-methods/update-payment-method-modal/index.tsx
+06-Feb-2024 22:00:16	  37:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/create-payment-method/index.tsx
+06-Feb-2024 22:00:16	   52:8   error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	   63:8   error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  150:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  182:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/update-payment-method-in-ig-modal/index.tsx
+06-Feb-2024 22:00:16	  36:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/common/ui/update-payment-method-select-ig-modal/index.tsx
+06-Feb-2024 22:00:16	  36:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/payment-details/src/ui/direct-buy-payment-page/index.tsx
+06-Feb-2024 22:00:16	  87:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section-multisite/order-summary/order-items/index.tsx
+06-Feb-2024 22:00:16	   52:24  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  155:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  164:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  170:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section-multisite/sidebar/review-billing-details/index.tsx
+06-Feb-2024 22:00:16	  40:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section-multisite/sidebar/review-order-total/index.tsx
+06-Feb-2024 22:00:16	  51:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section/confirm-order/index.tsx
+06-Feb-2024 22:00:16	  51:9  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section/confirm-quote-to-order/index.tsx
+06-Feb-2024 22:00:16	  52:21  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section/order-summary/order-items/index.tsx
+06-Feb-2024 22:00:16	   52:24  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  124:20  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  128:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  132:22  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  168:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section/order-summary/order-total/index.tsx
+06-Feb-2024 22:00:16	  62:12  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/components/review/src/common/ui/review-section/sidebar/review-billing-details/index.tsx
+06-Feb-2024 22:00:16	  44:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/pages/cart/src/ui/auth-message-wrapper/index.tsx
+06-Feb-2024 22:00:16	  19:8  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/pages/cart/src/ui/pricing/index.tsx
+06-Feb-2024 22:00:16	  126:10  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  145:28  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  171:26  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/pages/checkout/src/common/ui/flow-controls-section/amount-with-tax/index.tsx
+06-Feb-2024 22:00:16	  29:6  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	/buildeng/bamboo-agent-home/xml-data/build-dir/TINTIN-BCT3408-JOB3/packages/cart/pages/checkout/src/common/ui/flow-controls-section/index.tsx
+06-Feb-2024 22:00:16	  50:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	  62:14  error  Potential leaked value that might cause unintentionally rendered values or rendering crashes  react/jsx-no-leaked-render
+06-Feb-2024 22:00:16	
+06-Feb-2024 22:00:16	✖ 58 problems (58 errors, 0 warnings)
+06-Feb-2024 22:00:16	  58 errors and 0 warnings potentially fixable with the `--fix` option.
+06-Feb-2024 22:00:16	
